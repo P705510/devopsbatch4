@@ -2,3 +2,5 @@ git init
 git ststus
 git add
 git restore
+git clone
+git remote -v
