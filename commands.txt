@@ -1,0 +1,4 @@
+git init
+git ststus
+git add
+git restore
